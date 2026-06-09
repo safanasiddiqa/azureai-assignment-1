@@ -16,3 +16,6 @@ Google Colab
 
 How to Run:
 Open the notebook or Python file and run the cells sequentially.
+
+Conclusion:
+This assignment builds a strong foundation in Python for further AI & ML implementations.
